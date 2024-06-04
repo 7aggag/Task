@@ -25,10 +25,7 @@ To install and run the project, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Open the project in Xcode.
-3. Make sure you have CocoaPods installed. If not, install it by running `sudo gem install cocoapods` in the terminal.
-4. Navigate to the project directory in the terminal and run `pod install` to install dependencies.
-5. Open the `.xcworkspace` file in Xcode.
-6. Build and run the project on a simulator or a physical device.
+3. Build and run the project on a simulator or a physical device.
 
 ## Usage
 
